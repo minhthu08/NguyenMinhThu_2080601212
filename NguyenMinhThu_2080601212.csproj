@@ -176,17 +176,21 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202303110619562_InitialModel.cs" />
-    <Compile Include="Migrations\202303110619562_InitialModel.designer.cs">
-      <DependentUpon>202303110619562_InitialModel.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202303110726302_CreateTableCourse.cs" />
-    <Compile Include="Migrations\202303110726302_CreateTableCourse.designer.cs">
-      <DependentUpon>202303110726302_CreateTableCourse.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\202303110730378_PopulateCategoryTable.cs" />
     <Compile Include="Migrations\202303110730378_PopulateCategoryTable.designer.cs">
       <DependentUpon>202303110730378_PopulateCategoryTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202303180818130_AddNameColumnToApplicationUser.cs" />
+    <Compile Include="Migrations\202303180818130_AddNameColumnToApplicationUser.designer.cs">
+      <DependentUpon>202303180818130_AddNameColumnToApplicationUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202303180849132_InitialModel.cs" />
+    <Compile Include="Migrations\202303180849132_InitialModel.designer.cs">
+      <DependentUpon>202303180849132_InitialModel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202303221700483_CreateTableCourse.cs" />
+    <Compile Include="Migrations\202303221700483_CreateTableCourse.designer.cs">
+      <DependentUpon>202303221700483_CreateTableCourse.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -198,6 +202,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="ViewModels\CourseViewModel.cs" />
+    <Compile Include="ViewModels\FutureDate.cs" />
+    <Compile Include="ViewModels\ValidTime.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-theme.css" />
@@ -277,14 +283,17 @@
     <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202303110619562_InitialModel.resx">
-      <DependentUpon>202303110619562_InitialModel.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202303110726302_CreateTableCourse.resx">
-      <DependentUpon>202303110726302_CreateTableCourse.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202303110730378_PopulateCategoryTable.resx">
       <DependentUpon>202303110730378_PopulateCategoryTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202303180818130_AddNameColumnToApplicationUser.resx">
+      <DependentUpon>202303180818130_AddNameColumnToApplicationUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202303180849132_InitialModel.resx">
+      <DependentUpon>202303180849132_InitialModel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202303221700483_CreateTableCourse.resx">
+      <DependentUpon>202303221700483_CreateTableCourse.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

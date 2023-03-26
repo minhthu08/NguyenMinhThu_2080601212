@@ -101,12 +101,13 @@ D:\Coding\Web\NguyenMinhThu_2080601212\bin\Microsoft.Owin.Security.Twitter.xml
 D:\Coding\Web\NguyenMinhThu_2080601212\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 D:\Coding\Web\NguyenMinhThu_2080601212\bin\Microsoft.Owin.Security.OAuth.xml
 D:\Coding\Web\NguyenMinhThu_2080601212\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.csproj.AssemblyReference.cache
 D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.csproj.CoreCompileInputs.cache
 D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.csproj.CopyComplete
 D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.dll
 D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.pdb
-D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.Migrations.InitialModel.resources
 D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.csproj.GenerateResource.cache
-D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.Migrations.CreateTableCourse.resources
 D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.Migrations.PopulateCategoryTable.resources
+D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.Migrations.AddNameColumnToApplicationUser.resources
+D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.csproj.AssemblyReference.cache
+D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.Migrations.InitialModel.resources
+D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.Migrations.CreateTableCourse.resources
