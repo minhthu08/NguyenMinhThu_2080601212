@@ -111,3 +111,11 @@ D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.Migrat
 D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.csproj.AssemblyReference.cache
 D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.Migrations.InitialModel.resources
 D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.Migrations.CreateTableCourse.resources
+D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.Migrations.AddAttendance.resources
+D:\Coding\Web\NguyenMinhThu_2080601212\bin\System.Net.Http.Formatting.dll
+D:\Coding\Web\NguyenMinhThu_2080601212\bin\System.Web.Http.dll
+D:\Coding\Web\NguyenMinhThu_2080601212\bin\System.Web.Http.WebHost.dll
+D:\Coding\Web\NguyenMinhThu_2080601212\bin\System.Net.Http.Formatting.xml
+D:\Coding\Web\NguyenMinhThu_2080601212\bin\System.Web.Http.xml
+D:\Coding\Web\NguyenMinhThu_2080601212\bin\System.Web.Http.WebHost.xml
+D:\Coding\Web\NguyenMinhThu_2080601212\obj\Debug\NguyenMinhThu_2080601212.Migrations.AddFollowingsTable.resources
